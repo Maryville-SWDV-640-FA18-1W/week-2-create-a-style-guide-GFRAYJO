@@ -1,0 +1,58 @@
+head, .nav-bar-header{
+    background-color: #6495ED;
+    padding-inline-start: auto;
+    padding-inline-end: auto;
+    color: white;
+    font-size: 30px;  
+    text-align: left; 
+}
+
+body {
+    background-color:white;
+    font-family: sans-serif;
+    font-size: 14px;
+    text-align: center;
+    color: black;
+}
+
+.nav-list-item {
+   padding-left: auto;
+   text-align: left;
+   font-size: 16px;
+}
+
+.color1 {
+    background-color: 	#D3D3D3
+}
+
+.color2 {
+    background-color: 	#6495ED
+}
+
+.color3 {
+    background-color: 	black
+}
+
+.color4 {
+    background-color: 	white
+}
+
+button {
+    background-color: darkgrey;
+    padding: 8px 15px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.box1 {
+    background-color: darkgrey;
+}
+
+.box2 {
+    background-color: yellow
+}
+
+.box3 {
+    background-color: red
+}
+
